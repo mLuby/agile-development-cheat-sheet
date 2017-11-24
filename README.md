@@ -50,9 +50,9 @@ Based on recent studies about agile development. The goal here is to have a star
   
 ## 6. Product prioritization techniques
 
-- Internal vs External
-- Quantitative vs Qualitative
-
+- Right technique depends on goal
+  - Internal vs External
+  - Quantitative vs Qualitative
 - Kano (questions)
 - QFD (house)
 - Opportunity cost
@@ -67,8 +67,23 @@ Based on recent studies about agile development. The goal here is to have a star
 - Speed Boat
   - Pain driven
 - Financial analysis
+
+## 7. Facilitating retrospective  
+
+- Like a negotiation
+  - Separate people from the problem
+  - Interests and not positions
+  - Objective criteria
+- Opportunity to:
+  - learn
+  - build trust
+- No blaming
+
+### 7.1 4L's  
+### 7.2 Mad, Sad, Glad  
   
 ## 9. References
 
 - [Scrum Guides](http://www.scrumguides.org/)
 - https://foldingburritos.com/product-prioritization-techniques/
+- [Getting to Yes](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757/)
