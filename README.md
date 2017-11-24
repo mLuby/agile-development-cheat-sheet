@@ -1,9 +1,7 @@
 # 2017 Agile Development Cheat Sheet
-
 Based on recent studies about agile development. The goal here is to have a starting point and references for people to study Agile development related practices in 2017.
 
 ## Index
-
 1. Scrum
 2. XP
 3. Kanban
@@ -20,11 +18,11 @@ Based on recent studies about agile development. The goal here is to have a star
 7. Facilitating retrospective  
   7.1 4L's  
   7.2 Mad, Sad, Glad  
+  7.3 Sinking boat  
 8. Spotify Agile Model
 9. References
 
 ## 1. Scrum
-
 - Simple
 - Transparency
 - Inspection
@@ -69,7 +67,6 @@ Based on recent studies about agile development. The goal here is to have a star
 - Financial analysis
 
 ## 7. Facilitating retrospective  
-
 - Like a negotiation
   - Separate people from the problem
   - Interests and not positions
@@ -78,9 +75,25 @@ Based on recent studies about agile development. The goal here is to have a star
   - learn
   - build trust
 - No blaming
+- Everybody has to participate
+- Try not to favor extroverts and HIPPO (highest paid person opinion)
 
 ### 7.1 4L's  
+- Liked
+- Learned
+- Lacked
+- Longed for
+
 ### 7.2 Mad, Sad, Glad  
+- Mad
+- Sad
+- Glad
+
+### 7.3 Sinking boat
+- Variation of speed boat prioritization technique
+- Sail (good stuff)
+- Anchor (bad stuff)
+
   
 ## 9. References
 
