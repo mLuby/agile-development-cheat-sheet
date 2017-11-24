@@ -16,7 +16,7 @@ Based on recent studies about agile development. The goal here is to have a star
   5.1 Gartner BiModal  
   5.2 To speed IT (McKinsey)  
   5.3 Cinefin  
-6. Prioritization techniques
+6. Product prioritization techniques
 7. Facilitating retrospective  
   7.1 4L's  
   7.2 Mad, Sad, Glad  
@@ -48,6 +48,27 @@ Based on recent studies about agile development. The goal here is to have a star
   - Burn down chart
   - Cumulative work
   
+## 6. Product prioritization techniques
+
+- Internal vs External
+- Quantitative vs Qualitative
+
+- Kano (questions)
+- QFD (house)
+- Opportunity cost
+- Buy a feature (game)
+- Story mapping
+- MoSCoW
+  - Must
+  - Should
+  - Could
+  - Won't
+- Prune Tree (meh)
+- Speed Boat
+  - Pain driven
+- Financial analysis
+  
 ## 9. References
 
-1. [Scrum Guides](http://www.scrumguides.org/)
+- [Scrum Guides](http://www.scrumguides.org/)
+- https://foldingburritos.com/product-prioritization-techniques/
