@@ -108,9 +108,27 @@ Based on recent studies about agile development. The goal here is to have a star
 - Sail (good stuff)
 - Anchor (bad stuff)
 
+## 8. Spotify agile model
+- Squads
+  - Cross functional
+  - TA - Testing automation
+  - QA - Quality assistance
+- Tribe
+- 1 Tribe -> N Squads
+- Chapter
+  - Same role 
+  - Cross squads
+- Guilds
+  - Same role
+  - Cross tribes
+- Squads/tribes structure reflect communication requirements
+- Heavily based/dependent on software architect
+  - Release train (leaves no matter what)
+    - Feature flags
+  - One click deploy
+  - Continuous integration
   
 ## 9. References
-
 - [Scrum Guides](http://www.scrumguides.org/)
 - https://foldingburritos.com/product-prioritization-techniques/
 - [Getting to Yes](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757/)
