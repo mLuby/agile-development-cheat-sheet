@@ -45,7 +45,21 @@ Based on recent studies about agile development. The goal here is to have a star
 - Monitoring
   - Burn down chart
   - Cumulative work
-  
+
+## 2. XP (Extremme Programming)
+- Engineering oriented
+- Continuous Integration
+- Pair Programming
+- Test Driven Development
+- Small releases
+- Planning game
+- Spike development
+- Collective code ownership
+- Metaphors
+- Coding standards
+- Sustainable pace
+- Simple design
+
 ## 6. Product prioritization techniques
 
 - Right technique depends on goal
@@ -100,3 +114,4 @@ Based on recent studies about agile development. The goal here is to have a star
 - [Scrum Guides](http://www.scrumguides.org/)
 - https://foldingburritos.com/product-prioritization-techniques/
 - [Getting to Yes](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757/)
+- https://en.wikipedia.org/wiki/Extreme_programming_practices
