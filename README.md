@@ -109,6 +109,9 @@ Based on recent studies about agile development. The goal here is to have a star
 - Anchor (bad stuff)
 
 ## 8. Spotify agile model
+- Pillars: 
+  - Autonomy
+  - Direction
 - Squads
   - Cross functional
   - TA - Testing automation
@@ -127,6 +130,26 @@ Based on recent studies about agile development. The goal here is to have a star
     - Feature flags
   - One click deploy
   - Continuous integration
+  - Limited blast radius and partial rollout
+- Culture
+  - Mistakes are not punished
+    - Otherwise people hide them
+  - Failure recovery > failure avoidance
+  - Blame is not handed off to other people
+    - Squad who builds it, owns it
+  - Optmize for value
+  - Measure impact and not output
+  - Data > opinion
+- Health check
+  - Systemic problems
+- New ideas
+  - Think it
+    - PR Story
+    - Metrics (what does success looks like?)
+  - Build it
+  - Ship it
+  - Tweak it  
+  - Repeat
   
 ## 9. References
 - [Scrum Guides](http://www.scrumguides.org/)
