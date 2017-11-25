@@ -2,7 +2,7 @@
 Based on recent studies about agile development. The goal here is to have a starting point and references for people to study Agile development related practices in 2017.
 
 ## Index
-1. [Scrum](#1.-scrum)
+1. [Scrum](#1-scrum)
 2. [XP](#2.-xp-extremme-programming)
 3. Kanban
 4. [Scaling Agile](#4.-scaling-agile)  
