@@ -156,3 +156,4 @@ Based on recent studies about agile development. The goal here is to have a star
 - https://foldingburritos.com/product-prioritization-techniques/
 - [Getting to Yes](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757/)
 - https://en.wikipedia.org/wiki/Extreme_programming_practices
+- [Scaling Agile @ Spotify](https://www.youtube.com/watch?v=jyZEikKWhAU)
