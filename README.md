@@ -2,25 +2,25 @@
 Based on recent studies about agile development. The goal here is to have a starting point and references for people to study Agile development related practices in 2017.
 
 ## Index
-1. Scrum
-2. XP
+1. [Scrum](#1.-scrum)
+2. [XP](#2.-xp-extremme-programming)
 3. Kanban
-4. Scaling Agile  
-  4.1 Scrum of Scrums  
-  4.2 Nexus  
+4. [Scaling Agile](#4.-scaling-agile)  
+  4.1 [Scrum of Scrums](#4.1-scrum-of-scrums)  
+  4.2 [Nexus](#4.2-nexus)  
   4.2 LeSS  
   4.4 SAFe  
 5. Agile vs Legacy  
   5.1 Gartner BiModal  
   5.2 To speed IT (McKinsey)  
   5.3 Cinefin  
-6. Product prioritization techniques
-7. Facilitating retrospective  
-  7.1 4L's  
-  7.2 Mad, Sad, Glad  
-  7.3 Sinking boat  
-8. Spotify Agile Model
-9. References
+6. [Product prioritization techniques](#6.-product-prioritization-techniques)  
+7. [Facilitating retrospective](#7.-facilitating-retrospective)  
+  7.1 [4L's](#7.1-4ls)  
+  7.2 [Mad, Sad, Glad](#7.2-mad-sad-glad)  
+  7.3 [Sinking boat](#7.3-sinking-boat)  
+8. [Spotify Agile Model](#8.-spotify-agile-model)
+9. [References](#9.-references)
 
 ## 1. Scrum
 - Simple
