@@ -117,6 +117,7 @@ Based on recent studies about agile development. The goal here is to have a star
 - Pillars: 
   - Autonomy
   - Direction
+  - Community
 - Squads
   - Cross functional
   - TA - Testing automation
