@@ -206,3 +206,4 @@ Based on recent studies about agile development. The goal here is to have a star
 - [Scaling Agile @ Spotify](https://www.youtube.com/watch?v=jyZEikKWhAU)
 - http://jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf
 - https://www.agilealliance.org/glossary/scrum-of-scrums/
+- https://scrumorg-website-prod.s3.amazonaws.com/drupal/2016-09/NexusGuide%20v1.1.pdf?nexus-file=https%3A%2F%2Fscrumorg-website-prod.s3.amazonaws.com%2Fdrupal%2F2016-09%2FNexusGuide%2520v1.1.pdf
