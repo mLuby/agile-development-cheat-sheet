@@ -46,7 +46,7 @@ Based on recent studies about agile development. The goal here is to have a star
   - Burn down chart
   - Cumulative work
 
-## 2. XP (Extremme Programming)
+## 2. XP (Extreme Programming)
 - Engineering oriented
 - Continuous Integration
 - Pair Programming
@@ -65,7 +65,7 @@ Based on recent studies about agile development. The goal here is to have a star
 - Simplest to most complex
 
 ### 4.1 Scrum of Scrums  
-- A.k.a meta Scrum
+- AKA meta Scrum
 - One representative from each team
   - Scrum master?
 - Daily scrum with all these representatives
