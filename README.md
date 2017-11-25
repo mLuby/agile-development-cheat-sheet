@@ -75,7 +75,29 @@ Based on recent studies about agile development. The goal here is to have a star
   - impediments 
   - on behalf of the teams they represent
   
-### 4.2 Nexus  
+### 4.2 Nexus 
+- Augment scrums
+  - One new role
+  - Expanded events and artifacts
+- [Life cycle](https://s3.amazonaws.com/scrumorg-website-prod/drupal/2016-09/NexusPoster17x11.pdf)
+- Nexus
+  - Unit
+  - 3 to 9 Scrum teams
+- One extra team
+  - Integration team
+  - Responsible for all integrations
+  - Members from Scrum teams can be part of Nexus team
+  - Nexus work takes precedence as impacts more people
+- Product backlog
+  - Should be detailed enough before teams can start working on it
+  - Dependencies must be identified and preferably resolved
+  - Backlog distribution should be made to minimize dependencies
+- Daily Scrum
+  - Nexus daily occurs first
+  - Identify dependencies and integration problems
+  - Use it as input for Scrum daily so teams can plan their work accordingly
+- Influences technical architecture
+  - Architecture can simplify synchronization and scaling problems
 ### 4.2 LeSS  
 ### 4.4 SAFe  
 
