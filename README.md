@@ -70,6 +70,11 @@ Based on recent studies about agile development. The goal here is to have a star
 - Opportunity cost
 - Buy a feature (game)
 - Story mapping
+  - Map following business flow order
+  - Activities
+  - Backbone
+  - User tasks
+  - Slices releases and development strategy
 - MoSCoW
   - Must
   - Should
@@ -157,3 +162,4 @@ Based on recent studies about agile development. The goal here is to have a star
 - [Getting to Yes](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757/)
 - https://en.wikipedia.org/wiki/Extreme_programming_practices
 - [Scaling Agile @ Spotify](https://www.youtube.com/watch?v=jyZEikKWhAU)
+- http://jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf
