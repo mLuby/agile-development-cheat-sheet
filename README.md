@@ -60,6 +60,25 @@ Based on recent studies about agile development. The goal here is to have a star
 - Sustainable pace
 - Simple design
 
+## 4. Scaling Agile
+- Multiple frameworks/tools
+- Simplest to most complex
+
+### 4.1 Scrum of Scrums  
+- A.k.a meta Scrum
+- One representative from each team
+  - Scrum master?
+- Daily scrum with all these representatives
+  - Sync everything in that meeting
+  - completions
+  - next steps 
+  - impediments 
+  - on behalf of the teams they represent
+  
+### 4.2 Nexus  
+### 4.2 LeSS  
+### 4.4 SAFe  
+
 ## 6. Product prioritization techniques
 
 - Right technique depends on goal
@@ -164,3 +183,4 @@ Based on recent studies about agile development. The goal here is to have a star
 - https://en.wikipedia.org/wiki/Extreme_programming_practices
 - [Scaling Agile @ Spotify](https://www.youtube.com/watch?v=jyZEikKWhAU)
 - http://jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf
+- https://www.agilealliance.org/glossary/scrum-of-scrums/
